@@ -6,7 +6,7 @@ This project is inspired by https://git-scm.com/book/en/v2/Git-Internals-Git-Obj
 
 ## Goals
 
-- Strengthen an understainding of types of Git's object.
+- Strengthen an understanding of types of Git's object.
 - Hopefully create an understanding of what Git's tree object represent.
 
 ## Questions
